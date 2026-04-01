@@ -1,74 +1,116 @@
 # Website-Performance-Analysis
 
-🌐 Website Analysis Project
+# 🌐 Website Analysis Project
 
-📌 Project Overview
-
+## 📌 Project Overview
 This project focuses on analyzing website performance using real-world data. The goal is to understand user behavior, traffic patterns, and engagement metrics to derive meaningful business insights.
 
 The analysis is performed using Python in a Jupyter Notebook, leveraging data visualization and statistical techniques.
 
-🎯 Objectives
+---
 
-Analyze website traffic trends over time
-Identify top-performing traffic channels
-Evaluate user engagement and session behavior
-Compare engaged vs non-engaged sessions
-Discover peak usage hours
-Provide actionable recommendations
+## 🎯 Objectives
+- Analyze website traffic trends over time  
+- Identify top-performing traffic channels  
+- Evaluate user engagement and session behavior  
+- Compare engaged vs non-engaged sessions  
+- Discover peak usage hours  
+- Provide actionable recommendations  
 
-📂 Dataset
+---
 
-The dataset includes key website analytics metrics such as:-
-Users
-Sessions
-Engagement Rate
-Average Engagement Time
-Channel Group
-Date & Time
+## 📂 Dataset
+The dataset includes key website analytics metrics such as:
+- Users  
+- Sessions  
+- Engagement Rate  
+- Average Engagement Time  
+- Channel Group  
+- Date & Time  
 
-🛠️ Tools & Technologies Used-
-Python
-Jupyter Notebook
-Pandas – Data manipulation
-NumPy – Numerical analysis
-Matplotlib & Seaborn – Data visualization
+---
 
-📊 Key Analysis Performed
-🔹 1. Traffic Analysis
-Trends of users and sessions over time
-Identification of high and low traffic periods
-🔹 2. Channel Performance
-Comparison of traffic from different channels
-Analysis of engagement across channels
-🔹 3. User Engagement
-Evaluation of engagement rate
-Analysis of average engagement time
-🔹 4. Session Analysis
-Comparison between engaged and non-engaged sessions
-Identification of potential drop-off points
-🔹 5. Time-Based Analysis
-Hourly traffic distribution
-Identification of peak activity hours
+## 🛠️ Tools & Technologies Used
+- Python  
+- Jupyter Notebook  
+- Pandas – Data manipulation  
+- NumPy – Numerical analysis  
+- Matplotlib & Seaborn – Data visualization  
 
-📈 Key Insights
+---
 
-Website traffic remains relatively stable with noticeable peaks
-Some channels generate high traffic but low engagement
-Engagement varies significantly across channels
-A portion of sessions are non-engaged, indicating improvement areas
-Peak traffic hours can be leveraged for marketing strategies
+## 📊 Key Analysis Performed
 
-🚀 Recommendations
+### 1. Traffic Analysis
+- Trends of users and sessions over time  
+- Identification of high and low traffic periods  
 
-Focus on high-engagement traffic channels
-Improve landing pages to reduce bounce rates
-Optimize content strategy for better user retention
-Schedule campaigns during peak traffic hours
+### 2. Channel Performance
+- Comparison of traffic from different channels  
+- Analysis of engagement across channels  
 
-📁 Project Structure
+### 3. User Engagement
+- Evaluation of engagement rate  
+- Analysis of average engagement time  
 
-📦 Website-Analysis
- ┣ 📜 website_analysis.ipynb
- ┣ 📜 website raw dataset.csv
- ┗ 📜 README.md
+### 4. Session Analysis
+- Comparison between engaged and non-engaged sessions  
+- Identification of potential drop-off points  
+
+### 5. Time-Based Analysis
+- Hourly traffic distribution  
+- Identification of peak activity hours  
+
+---
+
+## 📈 Key Insights
+- Website traffic remains relatively stable with noticeable peaks  
+- Some channels generate high traffic but low engagement  
+- Engagement varies significantly across channels  
+- A portion of sessions are non-engaged, indicating improvement areas  
+- Peak traffic hours can be leveraged for marketing strategies  
+
+---
+
+## 🚀 Recommendations
+- Focus on high-engagement traffic channels  
+- Improve landing pages to reduce bounce rates  
+- Optimize content strategy for better user retention  
+- Schedule campaigns during peak traffic hours  
+
+---
+
+## 📁 Project Structure
+Website-Analysis/
+│
+├── website_analysis.ipynb
+├── website raw dataset.csv
+└── README.md
+
+---
+
+## ▶️ How to Run the Project
+
+1. Clone the repository
+git clone https://github.com/your-username/website-analysis.git
+
+2. Navigate to the project folder
+cd website-analysis
+
+3. Install required libraries
+pip install pandas numpy matplotlib seaborn
+
+4. Open Jupyter Notebook
+jupyter notebook
+
+5. Run "website_analysis.ipynb"
+
+---
+
+## 🙋‍♂️ Author
+Piyush Banchhor
+
+---
+
+## ⭐ If you found this project useful
+Give it a star on GitHub and feel free to connect!
